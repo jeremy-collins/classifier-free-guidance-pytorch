@@ -14,7 +14,6 @@ from inspect import signature
 
 from classifier_free_guidance_pytorch.t5 import T5Adapter
 from classifier_free_guidance_pytorch.open_clip import OpenClipAdapter
-from classifier_free_guidance_pytorch.openai_clip import OpenAIClipAdapter
 from classifier_free_guidance_pytorch.attend import Attend
 
 # constants
